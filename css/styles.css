@@ -142,6 +142,7 @@ body {
   text-align: center;
   letter-spacing: 0.06em;
   color: var(--first-color);
+  background-color: var(--accent-color);
 }
 
 .btn-hero:hover,
@@ -188,7 +189,7 @@ body {
 
 /*---------------------portfolio main---------------- */
 
-.filtres .active-filtres:active {
+.filtres .active-btn:active {
   color: var(--third-color);
   background-color: var(--accent-color);
 }
